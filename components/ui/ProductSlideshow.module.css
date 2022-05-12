@@ -1,0 +1,17 @@
+
+
+.each-slide > div {
+    display: flex;
+    justify-content: center;
+    background-size: contain;
+    background-position: center;
+    height: 600px;
+}
+
+.each-slide-small > div {
+    display: flex;
+    justify-content: center;
+    background-size: contain;
+    background-position: center;
+    height: 400px;
+}
